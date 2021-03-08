@@ -7,6 +7,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sammy970&theme=midnight-purple&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=<LOGO_NAME>&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=blueviolet)
 
-![](https://img.shields.io/badge/Favourite_Coding_Language-BASH-informational?style=for-the-badge&logo=<LOGO_NAME>&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Favourite_Coding_Language-BASH-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=blueviolet)
+
+![](https://img.shields.io/badge/Telegram-t.me/Sammy970-informational?style=for-the-badge&logo=telegram&logoColor=white&color=blueviolet)
