@@ -9,6 +9,7 @@
 <img align="center"> 
 < src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=Sammy970&theme=tokyonight&show_icons=true">
 
+[![Sammy970 GitHub stats](https://github-readme-stats.vercel.app/api?username=Sammy970)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
