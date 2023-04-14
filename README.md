@@ -9,6 +9,6 @@
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=blueviolet)
 
-![](https://img.shields.io/badge/Favourite_Coding_Language-BASH-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Favourite_Coding_Language-NODEJS-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=blueviolet)
 
 ![](https://img.shields.io/badge/Telegram-t.me/Sammy970-informational?style=for-the-badge&logo=telegram&logoColor=white&color=blueviolet)
