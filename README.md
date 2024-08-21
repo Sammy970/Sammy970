@@ -7,3 +7,6 @@
 ![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=blueviolet)
 
 ![](https://img.shields.io/badge/Favourite_Coding_Language-JavaScript-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=blueviolet)
+
+
+<a href="https://app.daily.dev/samyakj"><img src="https://api.daily.dev/devcards/v2/e6Uhjo50wDzpN3rJqzZfM.png?type=default&r=z18" width="356" alt="Samyak Jain's Dev Card"/></a>
