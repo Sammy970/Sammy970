@@ -43,9 +43,18 @@
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sammy970&theme=midnight-purple&show_icons=true&hide_border=true" alt="Sammy970's GitHub stats">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sammy970&langs_count=8&theme=midnight-purple&hide_border=true&layout=compact" alt="Top languages">
+  <img width="49%" src="assets/stats.svg" alt="Samyak's GitHub stats">
+  <img width="49%" src="assets/languages.svg" alt="Most used languages">
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg">
+    <img src="assets/snake.svg" alt="Snake eating my contribution graph">
+  </picture>
+</p>
+
+<p align="center"><sub>Stats are regenerated daily by a GitHub Action in this repo.</sub></p>
 
 <p align="center">
   <a href="https://app.daily.dev/samyakj"><img src="https://api.daily.dev/devcards/v2/e6Uhjo50wDzpN3rJqzZfM.png?type=default&r=z18" width="356" alt="Samyak Jain's daily.dev card"></a>
