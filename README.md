@@ -30,6 +30,15 @@
 
 ## 🚀 Featured projects
 
+<p align="center">
+  <a href="https://github.com/Sammy970/AntCloudMoonlight">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/antcloud-dark.svg">
+      <img src="assets/antcloud-light.svg" width="100%" alt="AntCloud as a bench instrument: a cloud PC in a server rack streams through a switch to a Mac display and an iPhone, with a gamepad on the bench. 1920×1200 at 60 fps, 20 Mbps, 39 ms.">
+    </picture>
+  </a>
+</p>
+
 | Project | What it is | Stack |
 |---|---|---|
 | [**ytm-lyrics**](https://github.com/Sammy970/ytm-lyrics) | Chrome extension with floating lyrics for whatever's playing on YouTube Music | JavaScript |
