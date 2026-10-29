@@ -31,18 +31,33 @@
 ## 🚀 Featured projects
 
 <p align="center">
-  <a href="https://github.com/Sammy970/AntCloudMoonlight">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/antcloud-dark.svg">
-      <img src="assets/antcloud-light.svg" width="100%" alt="AntCloud as a bench instrument: a cloud PC in a server rack streams through a switch to a Mac display and an iPhone, with a gamepad on the bench. 1920×1200 at 60 fps, 20 Mbps, 39 ms.">
-    </picture>
-  </a>
+  <a href="https://github.com/Sammy970/AntCloudMoonlight"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/antcloud-dark.svg">
+    <img src="assets/antcloud-light.svg" width="49%" alt="Fig 1, AntCloud: a cloud PC in a server rack streams through a switch to a Mac display and an iPhone, with a gamepad on the bench.">
+  </picture></a>
+  <a href="https://github.com/Sammy970/ytm-lyrics"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/lyrics-dark.svg">
+    <img src="assets/lyrics-light.svg" width="49%" alt="Fig 2, ytm-lyrics: a spinning turntable feeds an lrclib drawer cabinet, which feeds a floating lyric panel where the current line lights up.">
+  </picture></a>
 </p>
+<p align="center">
+  <a href="https://github.com/Sammy970/cursor-usage-extension"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/cursor-dark.svg">
+    <img src="assets/cursor-light.svg" width="49%" alt="Fig 3, cursor-usage: a vscdb canister feeds a fuel gauge reading 350 of 500 requests left, which feeds an editor whose status bar says 350 left.">
+  </picture></a>
+  <a href="https://github.com/Sammy970/decode-bms"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/decode-dark.svg">
+    <img src="assets/decode-light.svg" width="49%" alt="Fig 4, decode-bms: punched widget cards feed a reader that builds the BookMyShow home on a phone, row by row, beside a ticket and a popcorn bucket.">
+  </picture></a>
+</p>
+
+<p align="center"><sub>Each project drawn as a small isometric machine. Click one to open its repo.</sub></p>
 
 | Project | What it is | Stack |
 |---|---|---|
 | [**ytm-lyrics**](https://github.com/Sammy970/ytm-lyrics) | Chrome extension with floating lyrics for whatever's playing on YouTube Music | JavaScript |
 | [**AntCloudMoonlight**](https://github.com/Sammy970/AntCloudMoonlight) · [**AntCloudMac**](https://github.com/Sammy970/AntCloudMac) | AntCloud cloud gaming on iPhone and Mac: one tap to boot and stream your cloud PC | Swift, SwiftUI |
+| [**decode-bms**](https://github.com/Sammy970/decode-bms) | Server-Driven UI: BookMyShow's widget JSON rendered straight into React components | TypeScript, React |
 | [**tab-order-trail**](https://github.com/Sammy970/tab-order-trail) | Devtool that shows keyboard tab order, focus flow and accessibility issues on real pages | TypeScript |
 | [**cursor-usage-extension**](https://github.com/Sammy970/cursor-usage-extension) | Cursor IDE extension that shows your remaining AI requests in the status bar | TypeScript |
 | [**window-magnet-poetry**](https://github.com/Sammy970/window-magnet-poetry) | macOS menu bar app that writes one-line "poetry" when you snap windows | Swift |
