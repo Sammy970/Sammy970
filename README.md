@@ -33,7 +33,7 @@
 <p align="center">
   <a href="https://github.com/Sammy970/AntCloudMoonlight"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/antcloud-dark.svg">
-    <img src="assets/antcloud-light.svg" width="49%" alt="Fig 1, AntCloud: a cloud PC in a server rack streams through a switch to a Mac display and an iPhone, with a gamepad on the bench.">
+    <img src="assets/antcloud-light.svg" width="49%" alt="Fig 1, AntCloud (unofficial client): a cloud PC in a server rack streams through a switch to a Mac display and an iPhone, with a gamepad on the bench.">
   </picture></a>
   <a href="https://github.com/Sammy970/ytm-lyrics"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/lyrics-dark.svg">
@@ -56,7 +56,7 @@
 | Project | What it is | Stack |
 |---|---|---|
 | [**ytm-lyrics**](https://github.com/Sammy970/ytm-lyrics) | Chrome extension with floating lyrics for whatever's playing on YouTube Music | JavaScript |
-| [**AntCloudMoonlight**](https://github.com/Sammy970/AntCloudMoonlight) · [**AntCloudMac**](https://github.com/Sammy970/AntCloudMac) | AntCloud cloud gaming on iPhone and Mac: one tap to boot and stream your cloud PC | Swift, SwiftUI |
+| [**AntCloudMoonlight**](https://github.com/Sammy970/AntCloudMoonlight) · [**AntCloudMac**](https://github.com/Sammy970/AntCloudMac) | Unofficial AntCloud client for iPhone and Mac: one tap to boot and stream your cloud PC | Swift, SwiftUI |
 | [**decode-bms**](https://github.com/Sammy970/decode-bms) | Server-Driven UI: BookMyShow's widget JSON rendered straight into React components | TypeScript, React |
 | [**tab-order-trail**](https://github.com/Sammy970/tab-order-trail) | Devtool that shows keyboard tab order, focus flow and accessibility issues on real pages | TypeScript |
 | [**cursor-usage-extension**](https://github.com/Sammy970/cursor-usage-extension) | Cursor IDE extension that shows your remaining AI requests in the status bar | TypeScript |
