@@ -11,6 +11,11 @@
   <a href="https://app.daily.dev/samyakj"><img src="https://img.shields.io/badge/daily.dev-samyakj-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="daily.dev"></a>
 </p>
 
+<p align="center">
+  <a href="https://discord.gg/GVDYtpWHps"><img src="https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the Samyak Labs Discord"></a><br>
+  <b>Using AntCloud or TrueCloud?</b> Join my community server for help, bug reports and feature ideas.
+</p>
+
 ---
 
 ## 🛠️ Tech stack
